@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Download Web Content</string>
+    <string name="download">Download</string>
 </resources>
